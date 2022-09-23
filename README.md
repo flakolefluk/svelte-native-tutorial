@@ -1,0 +1,2 @@
+# NativeScript Svelte
+pokemon app
